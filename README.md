@@ -1,4 +1,4 @@
-# OS Lab3
+# OS Lab4
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/X_emad_X/os-lab3.git
+git remote add origin https://gitlab.com/X_emad_X/os-lab4.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/-/experiment/new_project_readme_content:ff5030287d26aabc64c5adec67c63eb8?https://gitlab.com/X_emad_X/os-lab3/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/-/experiment/new_project_readme_content:ff5030287d26aabc64c5adec67c63eb8?https://gitlab.com/X_emad_X/os-lab4/-/settings/integrations)
 
 ## Collaborate with your team
 
